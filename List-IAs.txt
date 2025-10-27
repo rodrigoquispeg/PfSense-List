@@ -1,81 +1,129 @@
+# === OpenAI / ChatGPT ===
 0.0.0.0 openai.com
 0.0.0.0 chat.openai.com
 0.0.0.0 platform.openai.com
 0.0.0.0 api.openai.com
-0.0.0.0 beta.openai.com
-0.0.0.0 openai-sandbox.com
-0.0.0.0 openai-research.com
+0.0.0.0 cdn.openai.com
+0.0.0.0 labs.openai.com
+0.0.0.0 oaiusercontent.com
+0.0.0.0 openaiapi-site.azureedge.net
+0.0.0.0 chatgpt.com
+0.0.0.0 auth0.openai.com
 
+# === Anthropic / Claude ===
 0.0.0.0 anthropic.com
 0.0.0.0 claude.ai
-0.0.0.0 claude.com
+0.0.0.0 api.claude.ai
+0.0.0.0 console.claude.ai
 
-0.0.0.0 cohere.ai
-0.0.0.0 api.cohere.ai
+# === Google Gemini ===
+0.0.0.0 gemini.google.com
+0.0.0.0 ai.google
+0.0.0.0 makersuite.google.com
+0.0.0.0 bard.google.com
+0.0.0.0 vertexai.googleapis.com
+0.0.0.0 generativelanguage.googleapis.com
+0.0.0.0 paLM.google.com
+0.0.0.0 studio.generativeai.google
+0.0.0.0 content-ai.googleapis.com
+0.0.0.0 ml.googleapis.com
+0.0.0.0 generativeai.google
+0.0.0.0 generativeai.googleapis.com
 
+# === Perplexity ===
+0.0.0.0 perplexity.ai
+0.0.0.0 www.perplexity.ai
+0.0.0.0 api.perplexity.ai
+0.0.0.0 labs.perplexity.ai
+0.0.0.0 ppx.ai
+0.0.0.0 cdn.perplexity.ai
+0.0.0.0 links.perplexity.ai
+
+# === You.com (IA + buscador inteligente) ===
+0.0.0.0 you.com
+0.0.0.0 api.you.com
+0.0.0.0 ai.you.com
+0.0.0.0 search.you.com
+0.0.0.0 cdn.you.com
+0.0.0.0 static.you.com
+0.0.0.0 youdot.com
+
+# === Poe (IA multipropósito - Quora) ===
+0.0.0.0 poe.com
+0.0.0.0 www.poe.com
+0.0.0.0 chat-poe.quora.com
+0.0.0.0 api.poe.com
+0.0.0.0 cdn.poe.com
+0.0.0.0 static.poe.com
+
+# === Hugging Face ===
 0.0.0.0 huggingface.co
-0.0.0.0 hf.co
-0.0.0.0 huggingface.co
+0.0.0.0 api.huggingface.co
+0.0.0.0 cdn.huggingface.co
 0.0.0.0 spaces.huggingface.co
+0.0.0.0 datasets-server.huggingface.co
+0.0.0.0 inference.huggingface.co
+0.0.0.0 models-server.huggingface.co
 
-0.0.0.0 replicate.com
-0.0.0.0 replicate.delivery
-0.0.0.0 replicate.art
-0.0.0.0 replicatecdn.com
+# === Midjourney ===
+0.0.0.0 midjourney.com
+0.0.0.0 www.midjourney.com
+0.0.0.0 cdn.midjourney.com
+# Nota: Midjourney usa Discord → opcional:
+0.0.0.0 discord.gg
+0.0.0.0 discord.com
+0.0.0.0 media.discordapp.net
+0.0.0.0 cdn.discordapp.com
 
+# === Runway ===
+0.0.0.0 runwayml.com
+0.0.0.0 app.runwayml.com
+0.0.0.0 api.runwayml.com
+0.0.0.0 cdn.runwayml.com
+
+# === Stability / DreamStudio ===
 0.0.0.0 stability.ai
 0.0.0.0 api.stability.ai
 0.0.0.0 dreamstudio.ai
+0.0.0.0 cdn.stability.ai
 
+# === Cohere ===
+0.0.0.0 cohere.ai
+0.0.0.0 api.cohere.ai
+
+# === AI21 Labs ===
 0.0.0.0 ai21.com
+0.0.0.0 api.ai21.com
 0.0.0.0 studio.ai21.com
 0.0.0.0 j1.ai
 
-0.0.0.0 runwayml.com
-0.0.0.0 runwayml.co
-0.0.0.0 runwayml.studio
+# === Copilot (GitHub / Microsoft) ===
+0.0.0.0 copilot.github.com
+0.0.0.0 api.githubcopilot.com
+0.0.0.0 githubcopilot.com
+0.0.0.0 copilot-proxy.githubusercontent.com
 
-0.0.0.0 midjourney.com
-0.0.0.0 cdn.midjourney.com
+# === Jasper, Writesonic, Copy.ai ===
+0.0.0.0 jasper.ai
+0.0.0.0 app.jasper.ai
+0.0.0.0 copy.ai
+0.0.0.0 api.copy.ai
+0.0.0.0 writesonic.com
+0.0.0.0 app.writesonic.com
+0.0.0.0 rytr.me
+0.0.0.0 copysmith.ai
 
+# === Others ===
+0.0.0.0 perplexity.ai
+0.0.0.0 blackbox.ai
+0.0.0.0 deepl.com
+0.0.0.0 deepl.ai
+0.0.0.0 synthesia.io
+0.0.0.0 synthesia.co
 0.0.0.0 lablab.ai
 0.0.0.0 alephalpha.com
 0.0.0.0 aleph-alpha.com
 0.0.0.0 eleuther.ai
-
-0.0.0.0 perplexity.ai
-0.0.0.0 you.com
-0.0.0.0 youdot.com
-0.0.0.0 youdao.com
-
-0.0.0.0 jasper.ai
-0.0.0.0 copy.ai
-0.0.0.0 writesonic.com
-0.0.0.0 rytr.me
-0.0.0.0 copysmith.ai
-
-0.0.0.0 synthesia.io
-0.0.0.0 synthesia.co
-
-0.0.0.0 deepl.com
-0.0.0.0 deepl.ai
-
 0.0.0.0 runpod.io
 0.0.0.0 tinkertools.ai
-
-# Microsoft AI endpoints
-0.0.0.0 openai.azure.com
-0.0.0.0 api.cognitive.microsoft.com
-0.0.0.0 cognitiveservices.azure.com
-
-# Google AI endpoints
-0.0.0.0 ai.google
-0.0.0.0 vertexai.googleapis.com
-0.0.0.0 cloud-ml.googleusercontent.com
-
-# Otros servicios emergentes
-0.0.0.0 blackbox.ai
-0.0.0.0 chatgpt.com
-0.0.0.0 poe.com
-0.0.0.0 huggingface.co/spaces
 0.0.0.0 gptzero.me
