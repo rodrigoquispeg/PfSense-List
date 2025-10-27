@@ -1,0 +1,81 @@
+0.0.0.0 openai.com
+0.0.0.0 chat.openai.com
+0.0.0.0 platform.openai.com
+0.0.0.0 api.openai.com
+0.0.0.0 beta.openai.com
+0.0.0.0 openai-sandbox.com
+0.0.0.0 openai-research.com
+
+0.0.0.0 anthropic.com
+0.0.0.0 claude.ai
+0.0.0.0 claude.com
+
+0.0.0.0 cohere.ai
+0.0.0.0 api.cohere.ai
+
+0.0.0.0 huggingface.co
+0.0.0.0 hf.co
+0.0.0.0 huggingface.co
+0.0.0.0 spaces.huggingface.co
+
+0.0.0.0 replicate.com
+0.0.0.0 replicate.delivery
+0.0.0.0 replicate.art
+0.0.0.0 replicatecdn.com
+
+0.0.0.0 stability.ai
+0.0.0.0 api.stability.ai
+0.0.0.0 dreamstudio.ai
+
+0.0.0.0 ai21.com
+0.0.0.0 studio.ai21.com
+0.0.0.0 j1.ai
+
+0.0.0.0 runwayml.com
+0.0.0.0 runwayml.co
+0.0.0.0 runwayml.studio
+
+0.0.0.0 midjourney.com
+0.0.0.0 cdn.midjourney.com
+
+0.0.0.0 lablab.ai
+0.0.0.0 alephalpha.com
+0.0.0.0 aleph-alpha.com
+0.0.0.0 eleuther.ai
+
+0.0.0.0 perplexity.ai
+0.0.0.0 you.com
+0.0.0.0 youdot.com
+0.0.0.0 youdao.com
+
+0.0.0.0 jasper.ai
+0.0.0.0 copy.ai
+0.0.0.0 writesonic.com
+0.0.0.0 rytr.me
+0.0.0.0 copysmith.ai
+
+0.0.0.0 synthesia.io
+0.0.0.0 synthesia.co
+
+0.0.0.0 deepl.com
+0.0.0.0 deepl.ai
+
+0.0.0.0 runpod.io
+0.0.0.0 tinkertools.ai
+
+# Microsoft AI endpoints
+0.0.0.0 openai.azure.com
+0.0.0.0 api.cognitive.microsoft.com
+0.0.0.0 cognitiveservices.azure.com
+
+# Google AI endpoints
+0.0.0.0 ai.google
+0.0.0.0 vertexai.googleapis.com
+0.0.0.0 cloud-ml.googleusercontent.com
+
+# Otros servicios emergentes
+0.0.0.0 blackbox.ai
+0.0.0.0 chatgpt.com
+0.0.0.0 poe.com
+0.0.0.0 huggingface.co/spaces
+0.0.0.0 gptzero.me
