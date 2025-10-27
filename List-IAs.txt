@@ -29,6 +29,10 @@
 0.0.0.0 ml.googleapis.com
 0.0.0.0 generativeai.google
 0.0.0.0 generativeai.googleapis.com
+0.0.0.0 www.googleapis.com
+0.0.0.0 apis.google.com
+0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 ssl.gstatic.com
 
 # === Perplexity ===
 0.0.0.0 perplexity.ai
@@ -127,3 +131,4 @@
 0.0.0.0 runpod.io
 0.0.0.0 tinkertools.ai
 0.0.0.0 gptzero.me
+
