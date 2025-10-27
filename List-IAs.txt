@@ -17,20 +17,20 @@
 0.0.0.0 console.claude.ai
 
 # === Google Gemini ===
-0.0.0.0 .gemini.google.com 
-0.0.0.0 .ai.google 
-0.0.0.0 .makersuite.google.com
-0.0.0.0 .vertexai.googleapis.com
-0.0.0.0 .generativelanguage.googleapis.com
-0.0.0.0 .studio.generativeai.google
-0.0.0.0 .content-ai.googleapis.com
-0.0.0.0 .ml.googleapis.com
-0.0.0.0 .generativeai.google
-0.0.0.0 .generativeai.googleapis.com
+0.0.0.0 gemini.google.com 
+0.0.0.0 ai.google 
+0.0.0.0 makersuite.google.com
+0.0.0.0 vertexai.googleapis.com
+0.0.0.0 generativelanguage.googleapis.com
+0.0.0.0 studio.generativeai.google
+0.0.0.0 content-ai.googleapis.com
+0.0.0.0 ml.googleapis.com
+0.0.0.0 generativeai.google
+0.0.0.0 generativeai.googleapis.com
 
 # Nuevos añadidos si no estaban:
-0.0.0.0 .googletagmanager.com
-0.0.0.0 .gvt1.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 gvt1.com
 
 # === Perplexity ===
 0.0.0.0 perplexity.ai
@@ -129,6 +129,7 @@
 0.0.0.0 runpod.io
 0.0.0.0 tinkertools.ai
 0.0.0.0 gptzero.me
+
 
 
 
