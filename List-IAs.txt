@@ -34,6 +34,7 @@
 0.0.0.0 lh3.googleusercontent.com
 0.0.0.0 ssl.gstatic.com
 0.0.0.0 clients6.google.com
+0.0.0.0 .googletagmanager.com
 
 # === Perplexity ===
 0.0.0.0 perplexity.ai
@@ -132,5 +133,6 @@
 0.0.0.0 runpod.io
 0.0.0.0 tinkertools.ai
 0.0.0.0 gptzero.me
+
 
 
